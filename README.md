@@ -75,5 +75,7 @@ For any inquiries or feedback, please contact the project maintainers:
 
 - [Hari](haririo321@gmail.com)
 - [Vaibhav Murugendra](vaibhavmurugendra@gmail.com)
+- [Tamanna Billuraj](tamannabilluraj1564@gmail.com)
+- [Keerthi](keerthi2005sri@gmail.com)
 
 Thank you for using Eat.CAIAS!
