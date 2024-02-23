@@ -73,9 +73,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, please contact the project maintainers:
 
-- [Hari](haririo321@gmail.com)
-- [Vaibhav Murugendra](vaibhavmurugendra@gmail.com)
-- [Tamanna Billuraj](tamannabilluraj1564@gmail.com)
-- [Keerthi](keerthi2005sri@gmail.com)
+- [Hari](mailto:haririo321@gmail.com)
+- [Vaibhav Murugendra](mailto:vaibhavmurugendra@gmail.com)
+- [Tamanna Billuraj](mailto:tamannabilluraj1564@gmail.com)
+- [Keerthi](mailto:keerthi2005sri@gmail.com)
 
 Thank you for using Eat.CAIAS!
